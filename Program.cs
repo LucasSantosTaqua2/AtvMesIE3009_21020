@@ -102,7 +102,7 @@ namespace AtvMesIE
             if (mes == 12)
             {
                 Console.WriteLine("-----------------------");
-                Console.WriteLine("Janeiro tem 31 dias");
+                Console.WriteLine("Dezembro tem 31 dias");
                 Console.WriteLine("-----------------------");
 
             }
